@@ -1,0 +1,4 @@
+#Wed Dec 11 13:08:46 UZT 2019
+base.0=/home/shoyunus/Workspace/BMI-Calculator-Flutter-Completed/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
